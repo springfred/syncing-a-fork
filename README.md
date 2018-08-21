@@ -9,12 +9,11 @@ Keeping a fork up to date
     git fetch upstream
 
 ### 3. Updating your fork from original repo to keep up with their changes:
-
     git pull upstream master
 
 ### 4. Push the changes to your fork
     git push origin master
 
 ### Notes:
-1/ https://help.github.com/articles/configuring-a-remote-for-a-fork/
-2/ https://help.github.com/articles/syncing-a-fork/
+    1/ https://help.github.com/articles/configuring-a-remote-for-a-fork/
+    2/ https://help.github.com/articles/syncing-a-fork/
